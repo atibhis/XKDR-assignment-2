@@ -6,7 +6,7 @@ To run the app, run:
 ```
 streamlit run app.py
 ```
-Here, `app.py` is the python script that executes the code for the app. On running the command, a webpage of app.py will open wherein there are two pages - Overview and Detail. In the Detail page, the user can sort through the data using the following inputs.
+Here, `app.py` is the python script that executes the code for the app. On running the command, a webpage of app.py will open wherein there are two pages - Detail and Overview. In the Detail page, the user can sort through the data using the following inputs.
 
 Under Judge Tab:
 - `Judge Name` : Name of the "Judge" 
@@ -18,5 +18,11 @@ Under Matters Tab:
 
 Under Acts Tab:
 - `Acts ID` : Name of the Acts
+
+#### Layout of Detail:
+![Detail Image](images/detail-judge.png)
+
+#### Layout of Overview:
+![Overview Image](images/overview.png)
 
 
