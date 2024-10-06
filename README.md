@@ -20,7 +20,7 @@ Under Acts Tab:
 - `Acts ID` : Name of the Acts
 
 #### Layout of Detail:
-![Detail Image](images/detail-judge.png)
+![Detail Image](images/detail-judges.png)
 
 #### Layout of Overview:
 ![Overview Image](images/overview.png)
