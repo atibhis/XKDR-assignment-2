@@ -10,12 +10,12 @@ Here, `app.py` is the python script that executes the code for the app. On runni
 
 ### Detail Tab
 
-Under Judge Tab:
+## Under Judge Tab:
 - `Judge Name` : Name of the "Judge" 
 - `Case Status` : Disposed | Pre-Admission
 - `Case Typology` : Original SUITS | Original Commercial Suits
 
-Under Matters Tab:
+## Under Matters Tab:
 The data can be narrowed down further by choosing one of the following options:
 -`Case Type` with the following filters:
     - `Case Typology` : Original SUITS | Original Commercial Suits | Original Summary Commercial Suits
@@ -26,7 +26,7 @@ The data can be narrowed down further by choosing one of the following options:
 
 - `Petitioner` : To view hearing's information by the petitioners name
 
-Under Acts Tab:
+## Under Acts Tab:
 - `Act Name`: Name of the Acts
 
 #### Example of Detail:
