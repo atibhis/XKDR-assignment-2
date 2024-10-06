@@ -6,6 +6,7 @@ To run the app, run:
 ```
 streamlit run app.py
 ```
+All the requirements to run the app are in `requirements.txt`
 Here, `app.py` is the python script that executes the code for the app. On running the command, a webpage of `app.py` will open wherein there are two layers - `Detail` and `Overview`. Under `Detail`, there are three features - `Judge`, `Matter` and `Acts` which presents a top-down approach to view the data.
 
 ### Detail Tab
